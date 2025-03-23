@@ -6,15 +6,15 @@ This repository showcases my programming skills in Python through various Jupyte
 I completed Introduction to Machine Learning and Data Visualization as elective courses, which strengthened my ability to work with data-driven insights and predictive models.
 
 ## Notebooks
-- Notebook 1: Data Analysis – Exploratory data analysis (EDA) using Pandas and altair.
-- Notebook 2: Data Visualization – Creating insightful charts using Matplotlib and Seaborn.
-- Notebook 3: Machine Learning – Implementing classification and regression models with Scikit-learn.
+- Notebook 1: Data Analysis – Exploratory data analysis(EDA) using Pandas and altair.
+- Notebook 2: Data Visualization – Creating effective data visualizations using Pandas and altair.
+- Notebook 3: Machine Learning – Building regression and classification models using Python and Scikit-learn.
 
 ## Skills Demonstrated
-- Data Analysis – Cleaning, transforming, and analyzing datasets with Pandas.
-- Data Visualization – Creating meaningful visualizations to interpret trends.
-- Machine Learning – Building predictive models using Scikit-learn.
-- Python Scripting – Automating data processing tasks.
+- Data Analysis: Cleaning, transforming, and analyzing datasets with Pandas.
+- Data Visualization: Creating meaningful visualizations to interpret trends.
+- Machine Learning: Building predictive models using Python and Scikit-learn.
+- Python Scripting: Automating data processing tasks.
 
 ## Contact
 Feel free to reach out via LinkedIn(https://www.linkedin.com/in/yeonok-yi/) or email (mailto: yeonyi.pm@gmail.com) if you have any questions!
